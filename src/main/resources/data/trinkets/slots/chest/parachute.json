@@ -1,0 +1,7 @@
+{
+  "icon": "trinkets:gui/slots/parachute",
+  "count": 16,
+  "validator_predicates": [
+    "trinkets:tag"
+  ]
+}
